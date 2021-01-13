@@ -1,0 +1,14 @@
+{
+  "name": "callbacks-promises",
+  "version": "1.0.0",
+  "description": "callback and promises ",
+  "main": "index.js",
+  "scripts": {
+    "callbacks" : "node callbacks.js" 
+  },
+  "keywords": [
+    "callbacks"
+  ],
+  "author": "crismoo",
+  "license": "ISC"
+}
